@@ -44,7 +44,7 @@ def test_sorting_algorithm():
     print("\nExplanation:")
     print("1. Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.")
     print("2. This process is repeated for all elements except the last sorted elements in each iteration.")
-    print("3. If no swaps are needed in a pass, the algorithm stops early, as the list is already sorted.")
+    print("3. If no swaps are needed in a pass, the algorithm stops early, as  list is already sorted.")
 
 # Run the test
 test_sorting_algorithm()
